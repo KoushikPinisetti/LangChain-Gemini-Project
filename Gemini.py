@@ -14,7 +14,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 # IMPORTANT: Your API key goes here.
 # Be careful not to share this file if it contains your key!
-api_key = "AIzaSyAgM8_VypnflbCnogw1MO0bDjf7Bc3mySk"
+api_key = ""
 
 # Create a list of prompts to choose from.
 # Feel free to add or change these prompts to whatever you like!
@@ -71,3 +71,4 @@ print(response)
 # python Gemini.py
 # You can still provide a specific topic like this:
 # python Gemini.py "the benefits of meditation"
+
