@@ -37,8 +37,3 @@ print("\n--------------------")
 print("Response from LangChain:")
 print("--------------------")
 print(response)
-
-# You can still provide a specific topic like this:
-# python Gemini.py "the benefits of meditation"
-
-
